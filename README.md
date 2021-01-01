@@ -4,6 +4,7 @@
 [![Discord](https://img.shields.io/badge/discord-bot_developer-grey?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA)]()<br />
 [![Node.js](https://img.shields.io/badge/node.js-developer-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)]()<br />
 [![Python](https://img.shields.io/badge/python-developer-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)]()<br />
+[![Java](https://img.shields.io/badge/java-developer-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=DE7E00)<br />
 
 ## Other environments which I use
 
